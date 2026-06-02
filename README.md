@@ -1,3 +1,7 @@
+![CI](https://github.com/<username>/operational-intent-gap/actions/workflows/ci.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # Operational Intent Gap
 
 **Why task completion is an insufficient objective for agentic banking systems.**
