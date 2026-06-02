@@ -1,0 +1,15 @@
+[project]
+name = "operational-intent-gap"
+version = "0.1.0"
+description = "A proof of concept for measuring the Operational Intent Gap in agentic banking workflows."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Ritesh Mishra" }]
+license = { text = "MIT" }
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
